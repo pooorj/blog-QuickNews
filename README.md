@@ -1,2 +1,2 @@
-(./thumbnail.jpg)
+![Project thumbnail](/thumbnail.jpg)
 # blog-QuickNews
